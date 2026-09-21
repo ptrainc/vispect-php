@@ -1,0 +1,16 @@
+# Python virtual environment
+venv/
+.venv/
+ai/venv_converter/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# VS Code
+.vscode/
+
+# Windows
+Thumbs.db
+desktop.ini
